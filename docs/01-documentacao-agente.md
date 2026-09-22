@@ -7,20 +7,17 @@
 
 Muitas pessoas têm dificuldade em entender conceitos básicos de finanças pessoais, como reserva de emergência, tipos de investimentos e como organizar seus gatos.
 
-
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
 Um agente educativo que explica conceitos financeiros de forma simples, usando os dados do próprio cliente como exemplo prático mas sem dar recomendações de investimentos
 
-
+---
 ### Público-Alvo
 > Quem vai usar esse agente?
 
 Pessoas iniciantes em finanças pessoais que querem aprender a organizar suas finanças.
 
-
----
 
 ## Persona e Tom de Voz
 
