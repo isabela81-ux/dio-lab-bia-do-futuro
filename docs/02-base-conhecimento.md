@@ -2,10 +2,12 @@
 
 > [!TIP]
 > **Prompt usado para esta etapa:**
-> 
-> Organize a base de conhecimento do agente "Edu" usando os 4 arquivos da pasta `data/` (em anexo). Explique pra que serve cada arquivo e monte um exemplo de contexto formatado que será enviado pro LLM. Preencha o template abaixo.
->
-> [cole ou anexe o template `02-base-conhecimento.md` pra contexto]
+> Preciso organizar a base de conhecimento do meu agente financeiro educativo.
+> Tenho estes arquivos de dados: [Liste os arquivos]
+> Me ajude a:
+> (1) entender o que cada arquivo contém,
+> (2) decidir como usar cada um.
+> (3) criar um exemplo de contexto formatado para incluir no prompt;
 
 ## Dados Utilizados
 
